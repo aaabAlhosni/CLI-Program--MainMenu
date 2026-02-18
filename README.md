@@ -1,6 +1,6 @@
 # CLI-Program--MainMenu-for-Customer-and-Admin-Operations
-this is a cli java program 
-having smooth menu he can choose from lots of functions as tasked, an admin access is available.
+\nthis is a cli java program 
+\n having smooth menu he can choose from lots of functions as tasked, an admin access is available.
 Note: admin pin is inside program.java
 
 Main Menu
